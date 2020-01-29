@@ -1,24 +1,3 @@
-2020-01-28 20:18:34.864 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 13116 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:18:34.872 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:18:47.587 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 14.476 seconds (JVM running for 22.857)
-2020-01-28 20:32:11.493 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 7240 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:32:11.500 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:32:22.467 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 12.292 seconds (JVM running for 17.429)
-2020-01-28 20:33:41.944 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 11000 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:33:41.983 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:33:53.059 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 12.306 seconds (JVM running for 20.482)
-2020-01-28 20:35:30.096 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 12280 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:35:30.100 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:35:39.996 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 11.074 seconds (JVM running for 16.014)
-2020-01-28 20:38:32.799 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 10416 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:38:32.803 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:38:43.365 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 11.758 seconds (JVM running for 16.557)
-2020-01-28 20:40:26.123 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 13028 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:40:26.130 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:40:34.856 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 9.77 seconds (JVM running for 14.0)
-2020-01-28 20:42:00.086 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 11704 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:42:00.090 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:42:08.863 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 9.858 seconds (JVM running for 14.055)
-2020-01-28 20:58:48.179 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Starting AreaDaoTest on DESKTOP-5HVHTUI with PID 10672 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
-2020-01-28 20:58:48.228 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -No active profile set, falling back to default profiles: default
-2020-01-28 20:59:00.254 [main] INFO  com.nrd.o2o.dao.AreaDaoTest -Started AreaDaoTest in 13.425 seconds (JVM running for 20.394)
+2020-01-29 09:57:44.071 [main] INFO  com.nrd.o2o.service.AreaServiceTest -Starting AreaServiceTest on DESKTOP-5HVHTUI with PID 3480 (started by admin in E:\workspace-sts-3.9.11.RELEASE\o2o)
+2020-01-29 09:57:44.148 [main] INFO  com.nrd.o2o.service.AreaServiceTest -No active profile set, falling back to default profiles: default
+2020-01-29 09:57:56.943 [main] INFO  com.nrd.o2o.service.AreaServiceTest -Started AreaServiceTest in 14.613 seconds (JVM running for 32.727)
